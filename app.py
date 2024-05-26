@@ -8,7 +8,7 @@ from cachetools import cached, TTLCache # type: ignore
 
 load_dotenv() ## load all our environment variables
 
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # Define a cache with a time-to-live (TTL) of 300 seconds (5 minutes)
 cache = TTLCache(maxsize=128, ttl=300)
