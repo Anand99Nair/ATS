@@ -1,10 +1,10 @@
-## Application Tracking System using Google Gemini Pro
+## Applicant Tracking System using Google Gemini Pro
 
-# Application Tracking System (ATS) using Gemini Pro
+# Applicant Tracking System (ATS) using Gemini Pro
 
 ## Overview
 
-This project is an Application Tracking System (ATS) that utilizes the Gemini Pro language model from Google's Generative AI to evaluate resumes based on a given job description. The system provides a user-friendly interface built with Streamlit, allowing users to upload their resumes in PDF format and paste the job description they are applying for. The Gemini Pro model then analyzes the resume and job description, providing a percentage match, missing keywords, and a profile summary to help users improve their resumes and increase their chances of getting hired.
+This project is an Applicant Tracking System (ATS) that utilizes the Gemini Pro language model from Google's Generative AI to evaluate resumes based on a given job description. The system provides a user-friendly interface built with Streamlit, allowing users to upload their resumes in PDF format and paste the job description they are applying for. The Gemini Pro model then analyzes the resume and job description, providing a percentage match, missing keywords, and a profile summary to help users improve their resumes and increase their chances of getting hired.
 
 ## Features
 
@@ -19,13 +19,13 @@ This project is an Application Tracking System (ATS) that utilizes the Gemini Pr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/application-tracking-system.git
+git clone https://github.com/your-repo/applicant-tracking-system.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd application-tracking-system
+cd applicant-tracking-system
 ```
 
 3. Install the required dependencies:
